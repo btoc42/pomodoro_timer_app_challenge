@@ -8,7 +8,7 @@ Learn to build "pomodoro timer" application (study timer 25 minutes)
 🏆🎯 Pomodoro timer app **JavaScript** project
 
 # 💪 📝 How to Steps
-✅ -  
+✅ - First commit  
 ✅ -  
 ✅ -  
 ✅ -  
