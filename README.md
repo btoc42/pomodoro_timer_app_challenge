@@ -9,7 +9,7 @@ Learn to build "pomodoro timer" application (study timer 25 minutes)
 
 # 💪 📝 How to Steps
 ✅ - First commit  
-✅ -  
+✅ - [Pomodoro Timer GUI in Python by NeuralNine](https://www.youtube.com/watch?v=FJeXp5yZd-g)  
 ✅ -  
 ✅ -  
 
